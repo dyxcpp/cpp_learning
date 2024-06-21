@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# build
+/construction_destruction_func/bin
+/construction_destruction_func/build
+
