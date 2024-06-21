@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/c++_learning/C_workspace/cpp_learning/construction_destruction_func/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/construction_destruction_func.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\construction_destruction_func.dir\\src\\Person.cpp.obj -c D:\\c++_learning\\C_workspace\\cpp_learning\\construction_destruction_func\\src\\Person.cpp",
+  "file": "D:/c++_learning/C_workspace/cpp_learning/construction_destruction_func/src/Person.cpp",
+  "output": "CMakeFiles/construction_destruction_func.dir/src/Person.cpp.obj"
+},
+{
+  "directory": "D:/c++_learning/C_workspace/cpp_learning/construction_destruction_func/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/construction_destruction_func.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\construction_destruction_func.dir\\src\\main.cpp.obj -c D:\\c++_learning\\C_workspace\\cpp_learning\\construction_destruction_func\\src\\main.cpp",
+  "file": "D:/c++_learning/C_workspace/cpp_learning/construction_destruction_func/src/main.cpp",
+  "output": "CMakeFiles/construction_destruction_func.dir/src/main.cpp.obj"
+}
+]

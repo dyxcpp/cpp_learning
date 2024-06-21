@@ -1,0 +1,3 @@
+"D:\Microsoft VS Code\cmake\bin\cmake.exe" -E rm -f CMakeFiles\construction_destruction_func.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\construction_destruction_func.dir/objects.a @CMakeFiles\construction_destruction_func.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\construction_destruction_func.dir/objects.a -Wl,--no-whole-archive -o D:\c++_learning\C_workspace\cpp_learning\construction_destruction_func\bin\construction_destruction_func.exe -Wl,--out-implib,D:\c++_learning\C_workspace\cpp_learning\construction_destruction_func\bin\libconstruction_destruction_func.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\construction_destruction_func.dir\linkLibs.rsp
